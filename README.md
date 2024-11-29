@@ -1,4 +1,4 @@
-- #👋 Hi, I’m shraddha Jagtap
+- #👋 Hi, I’m **shraddha Jagtap**
 -  I'm passionate about exploring the different facets of Computer Science, including software development, algorithms, data structures, machine learning, and artificial intelligence.
 - 🌱 I’m currently learning Master's in Computer Science at Savitribai Phule Pune University
 
